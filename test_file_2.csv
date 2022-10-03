@@ -1,0 +1,352 @@
+Act Dec,22 09 2022,RETENTION_GP_2_1_63_ACTDEC_Data_Accum7_1_20_150MB_100,45050,6783,2422,0,385,345
+Act Dec,22 09 2022,RETENTION_GP_2_1_64_ACTDEC_Data_Accum7_21_40_350MB_100,48270,4784,2480,0,388,351
+Act Dec,22 09 2022,RETENTION_GP_2_1_65_ACTDEC_Data_Accum7_41_60_350MB_100,90324,8230,4738,0,723,658
+Act Dec,22 09 2022,RETENTION_GP_2_1_66_ACTDEC_Data_Accum7_61_100_1GB_100,90129,8016,4655,0,617,561
+Act Dec,22 09 2022,RETENTION_GP_2_1_67_ACTDEC_Data_Accum7_101_500_1GB_100,31709,3549,1693,0,308,282
+Act Dec,22 09 2022,RETENTION_GP_2_2_68_ACTDEC_Core_Accum7_1_20_120min_100,13657,1296,715,0,123,111
+Act Dec,22 09 2022,RETENTION_GP_2_2_69_ACTDEC_Core_Accum7_21_40_UNLIallnet-UNLIintra-50MB_100,6979,627,377,0,44,40
+Act Dec,22 09 2022,RETENTION_GP_2_2_70_ACTDEC_Core_Accum7_41_60_UNLIallnet-UNLIintra-50MB_100,8372,618,443,0,38,36
+Act Dec,22 09 2022,RETENTION_GP_2_2_71_ACTDEC_Core_Accum7_61_100_UNLIintra_100,8308,632,453,0,56,50
+Act Dec,22 09 2022,RETENTION_GP_2_2_72_ACTDEC_Core_Accum7_101_500_UNLIintra_100,3931,389,219,0,41,37
+Act Dec,22 09 2022,RETENTION_TM_2_1_73_ACTDEC_DATA_ACCUM7_20_0_150MB,135596,15777,7139,0,1085,1001
+Act Dec,22 09 2022,RETENTION_TM_2_1_74_ACTDEC_DATA_ACCUM7_80_0_350MB,163595,16303,8515,0,1190,1083
+Act Dec,22 09 2022,RETENTION_TM_2_1_75_ACTDEC_DATA_ACCUM7_150_0_700MB,15325,1646,774,0,120,104
+Act Dec,22 09 2022,RETENTION_TM_2_1_76_ACTDEC_DATA_ACCUM7_400_0_700MB,2479,350,133,0,21,20
+Act Dec,22 09 2022,RETENTION_TM_2_1_77_ACTDEC_DATA_ACCUM7_1000_0_700MB,383,39,25,0,2,2
+Act Dec,22 09 2022,RETENTION_TM_2_2_78_ACTDEC_CORE_ACCUM7_20_0_UNLIallnet-60min,58943,5390,3073,0,470,434
+Act Dec,22 09 2022,RETENTION_TM_2_2_79_ACTDEC_CORE_ACCUM7_80_0_UNLIallnet-60min,25715,2092,1398,0,136,126
+Act Dec,22 09 2022,RETENTION_TM_2_2_80_ACTDEC_CORE_ACCUM7_150_0_UNLIallnet-120min,3092,257,143,0,19,19
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_10_PROACTIVETU_REG_ACCUM_271-330_1.3_UnliAllNetSMS_2GB,49207,6320,2605,0,97,86
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_11_PROACTIVETU_REG_ACCUM_331-450_1.3_UnliAllNetSMS_2GB,154338,19144,8112,0,199,172
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_12_PROACTIVETU_REG_ACCUM_451-700_1.3_UnliAllNetSMS_2GB,54733,7371,2854,0,67,60
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_7_PROACTIVETU_REG_ACCUM_60-120_1.5_UnliAllNetSMS_2GB,4296,1571,211,0,112,101
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_8_PROACTIVETU_REG_ACCUM_121-180_1.3_UnliAllNetSMS_2GB,14039,3572,744,0,270,244
+Proactive Topup,22 09 2022,TopUp21_GP_1_1_9_PROACTIVETU_REG_ACCUM_181-270_1.3_UnliAllNetSMS_2GB,46195,7739,2483,0,435,393
+Proactive Topup,22 09 2022,TopUp21_GP_1_2_18_PROACTIVETU_FREQ_ACCUM_130-220_1.3_UnliAllNetSMS_2GB,1960,537,106,0,16,14
+Proactive Topup,22 09 2022,TopUp21_GP_1_2_19_PROACTIVETU_FREQ_ACCUM_221-300_1.3_UnliAllNetSMS_2GB,3786,904,203,0,6,5
+Proactive Topup,22 09 2022,TopUp21_GP_1_2_20_PROACTIVETU_FREQ_ACCUM_301-400_1.3_UnliAllNetSMS_2GB,15919,2067,861,0,5,4
+Proactive Topup,22 09 2022,TopUp21_GP_1_2_21_PROACTIVETU_FREQ_ACCUM_401-530_1.3_UnliAllNetSMS_2GB,42199,3640,2166,0,25,23
+Proactive Topup,22 09 2022,TopUp21_GP_1_2_22_PROACTIVETU_FREQ_ACCUM_531-650_1.3_UnliAllNetSMS_2GB,24659,2083,1321,0,15,13
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_23_PROACTIVETU_CAS_AveAmtStrchSing_10-20_1.5_UnliAllNetSMS_UnliIntraCall,1726,726,97,0,10,9
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_24_PROACTIVETU_CAS_AveAmtStrchSing_21-35_1.3_UnliAllNetSMS_UnliIntraCall,2483,1066,134,0,43,40
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_25_PROACTIVETU_CAS_AveAmtStrchSing_36-45_1.3_UnliAllNetSMS_1GB,1766,635,99,0,23,20
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_26_PROACTIVETU_CAS_AveAmtStrchSing_46-60_1.3_UnliAllNetSMS_1GB,4153,1207,223,0,26,22
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_27_PROACTIVETU_CAS_AveAmtStrchSing_61-75_1.3_UnliAllNetSMS_2GB,1445,430,73,0,17,16
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_28_PROACTIVETU_CAS_AveAmtStrchSing_76-150_1.3_UnliAllNetSMS_2GB,1409,427,73,0,2,2
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_29_PROACTIVETU_CAS_AveAmtFreqSing_10-20_1.5_UnliAllNetSMS_UnliIntraCall,3099,1131,177,0,12,9
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_30_PROACTIVETU_CAS_AveAmtFreqSing_21-40_1.5_UnliAllNetSMS_UnliIntraCall,6477,2490,321,0,66,57
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_31_PROACTIVETU_CAS_AveAmtFreqSing_41-55_1.3_UnliAllNetSMS_1GB,8126,2563,425,0,44,40
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_32_PROACTIVETU_CAS_AveAmtFreqSing_56-70_1.3_UnliAllNetSMS_2GB,3461,1161,214,0,49,46
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_33_PROACTIVETU_CAS_AveAmtFreqSing_71-75_1.2_UnliAllNetSMS_2GB,731,206,25,0,9,9
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_34_PROACTIVETU_CAS_AveAmtFreqSing_76-100_1.3_UnliAllNetSMS_2GB,2557,784,120,0,5,4
+Proactive Topup,22 09 2022,TopUp21_GP_1_3_35_PROACTIVETU_CAS_AveAmtFreqSing_101-350_1.3_UnliAllNetSMS_2GB,409,128,21,0,0,0
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_10_PROACTIVETU_REG_ACCUM_251-300_1.3_UnliAllNetSMS_2GB,14214,1275,771,0,26,22
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_11_PROACTIVETU_REG_ACCUM_301-500_1.3_UnliAllNetSMS_2GB,24852,1836,1282,0,16,16
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_6_PROACTIVETU_REG_ACCUM_20-60_1.5_UnliAllNetCore,2110,1020,114,0,54,52
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_7_PROACTIVETU_REG_ACCUM_61-140_1.5_UnliAllNetSMS_2GB,9642,2890,490,0,176,157
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_8_PROACTIVETU_REG_ACCUM_141-200_1.3_UnliAllNetSMS_2GB,11991,2051,653,0,142,138
+Proactive Topup,22 09 2022,TopUp21_TM_1_1_9_PROACTIVETU_REG_ACCUM_201-250_1.3_UnliAllNetSMS_2GB,11312,1428,605,0,74,67
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_12_PROACTIVETU_FREQ_MODESING_5-10_1.3_UnliAllNetCore,3758,955,178,0,436,414
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_13_PROACTIVETU_FREQ_MODESING_44520_1.2_UnliAllNetCore,598,154,26,0,75,67
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_16_PROACTIVETU_FREQ_ACCUM_50-70_1.5_UnliAllNetSMS_2GB,1277,381,59,0,6,5
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_17_PROACTIVETU_FREQ_ACCUM_71-180_1.5_UnliAllNetSMS_2GB,64574,11495,3315,0,87,78
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_18_PROACTIVETU_FREQ_ACCUM_181-250_1.3_UnliAllNetSMS_2GB,57629,8858,3017,0,57,53
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_19_PROACTIVETU_FREQ_ACCUM_251-320_1.3_UnliAllNetSMS_2GB,38719,6415,2013,0,15,13
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_20_PROACTIVETU_FREQ_ACCUM_321-420_1.3_UnliAllNetSMS_2GB,35523,5106,1887,0,7,6
+Proactive Topup,22 09 2022,TopUp21_TM_1_2_21_PROACTIVETU_FREQ_ACCUM_421-650_1.5_UnliAllNetSMS_2GB,42545,4259,2268,0,6,5
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_22_PROACTIVETU_CAS_AveAmtStrchSing_1-10_1.5_UnliAllNetCore,3516,1240,168,0,22,22
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_23_PROACTIVETU_CAS_AveAmtStrchSing_11-15_1.3_UnliAllNetCore,6782,1833,369,0,148,137
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_24_PROACTIVETU_CAS_AveAmtStrchSing_16-20_1.3_UnliAllNetCore,11923,2638,667,0,56,53
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_25_PROACTIVETU_CAS_AveAmtStrchSing_21-30_1.3_UnliAllNetCore,7067,1709,341,0,116,105
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_26_PROACTIVETU_CAS_AveAmtStrchSing_31-50_1.3_UnliAllNetSMS_2GB,2020,655,95,0,36,34
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_27_PROACTIVETU_CAS_AveAmtFreqSing_1-10_1.5_UnliAllNetCore,6721,2245,344,0,34,32
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_28_PROACTIVETU_CAS_AveAmtFreqSing_11-15_1.3_UnliAllNetCore,13094,3776,698,0,255,239
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_29_PROACTIVETU_CAS_AveAmtFreqSing_16-20_1.3_UnliAllNetCore,23791,5224,1275,0,87,79
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_30_PROACTIVETU_CAS_AveAmtFreqSing_21-30_1.3_UnliAllNetCore,13771,3478,729,0,168,151
+Proactive Topup,22 09 2022,TopUp21_TM_1_3_31_PROACTIVETU_CAS_AveAmtFreqSing_31-50_1.3_UnliAllNetSMS_2GB,4200,1256,231,0,87,83
+True AC,22 09 2022,RETENTION_GP_1_1_1_TRUEAC_Data_Sing7_Data_10_150MB,167194,17898,8799,0,465,399
+True AC,22 09 2022,RETENTION_GP_1_2_2_TRUEAC_Core_Sing7_Core_10_180min,67487,1877,3561,0,101,81
+True AC,22 09 2022,RETENTION_TM_1_1_1_TRUEAC_DATA_SING7_DATA_10_100MB,169471,23181,8828,0,459,416
+True AC,22 09 2022,RETENTION_TM_1_2_2_TRUEAC_CORE_SING7_CORE_10_20min-100intra,116531,14299,6246,0,155,142
+Reg & Get - RT002,22 09 2022,Retention_Reg&Get_HPW_RT002_2_1_1,6553,21594,394,0,95,91
+Reg & Get - RT002,22 09 2022,Retention_Reg&Get_HPW_RT002_2_2_6,6393,58574,367,0,22,22
+Reg & Get - RT002,22 09 2022,Retention_Reg&Get_HPW_RT002_2_2_8,16160,185779,934,0,21,21
+Reg & Get - RT002,22 09 2022,Retention_Reg&Get_HPW_RT002_2_3_3,0,21639,0,7015,0,0
+Reg & Get - RT003,22 09 2022,Retention_Reg&Get_HPW_RT003_1_1_1,190388,399947,10057,0,13,12
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_GP_1_1_123,9495,120151,508,509237,4,4
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_GP_2_1_124,9495,31156,505,74573,5,5
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_GP_3_1_125,9527,18416,473,7620,2,2
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_TM_1_1_126,9465,98263,535,306750,7,6
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_TM_2_1_127,9475,40629,525,115099,39,37
+EMS2.0,22 09 2022,Retention_Enhanced Multisim_TM_3_1_128,9472,32918,528,33126,22,22
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_1_32_Data-shifter_Direct_GoSURF50,1127,4225,80,0,9,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_1_35_Data-shifter_Direct_GO50,9829,26558,535,324,172,160
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_1_38_Data-shifter_Direct_GO90,1809,6943,104,0,13,13
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_1_41_Data-shifter_Direct_GO120,204,453,8,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_1_56_Data-shifter_Direct_GoSAKTO90,114,383,5,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_5_45_Data-shifter_W.Spend_>=85P(B)_GoSAKTO70,1,0,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_8_50_Data-shifter_W.Spend_<85P(A)_GoSAKTO70,67,259,1,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_1_9_51_Data-shifter_W.Spend_<85P(B)_GoSAKTO70,75,266,3,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_1_33_Core-shifter_Direct_GoSURF50,470,525,23,0,3,3
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_1_36_Core-shifter_Direct_GO50,4799,3924,278,0,62,60
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_1_39_Core-shifter_Direct_GO90,719,843,40,0,4,4
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_1_42_Core-shifter_Direct_GO120,237,273,7,0,1,1
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_1_57_Core-shifter_Direct_GoSAKTO90,42,27,3,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_8_52_Core-shifter_W.Spend_<85P(A)_GoSAKTO70,28,42,1,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_2_9_53_Core-shifter_W.Spend_<85P(B)_GoSAKTO70,34,15,1,0,1,1
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_1_34_Both-shifter_Direct_GoSURF50,177,479,8,0,1,1
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_1_37_Both-shifter_Direct_GO50,1438,3310,64,0,14,12
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_1_40_Both-shifter_Direct_GO90,290,796,14,0,1,1
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_1_43_Both-shifter_Direct_GO120,72,243,3,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_1_58_Both-shifter_Direct_GoSAKTO90,9,33,1,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_8_54_Both-shifter_W.Spend_<85P(A)_GoSAKTO70,6,26,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_GP_3_9_55_Both-shifter_W.Spend_<85P(B)_GoSAKTO70,6,23,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_1_107_Data-shifter_Direct_EZ90,191,995,8,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_1_71_Data-shifter_Direct_AN20,7,22,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_1_82_Data-shifter_Direct_COMBO20,1664,2832,85,0,42,42
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_1_87_Data-shifter_Direct_COMBOALL10,3350,6019,184,0,88,84
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_1_97_Data-shifter_Direct_EZ50,2587,10709,141,0,18,17
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_6_100_Data-shifter_W.Spend_>=70P_EZ70,1,0,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_1_7_103_Data-shifter_W.Spend_<70P_EZ70,212,987,20,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_1_106_Core-shifter_Direct_EZ90,91,80,2,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_1_72_Core-shifter_Direct_AN20,12,27,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_1_99_Core-shifter_Direct_EZ50,1279,1312,63,0,25,25
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_2_121_Core-shifter_Smartphone_COMBO20,761,1464,56,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_2_85_Core-shifter_Smartphone_COMBO20,825,1401,48,0,17,17
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_2_90_Core-shifter_Smartphone_COMBOALL10,3878,6171,174,0,65,64
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_3_119_Core-shifter_Non_Smartphone_COMBO20,164,296,10,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_3_83_Core-shifter_Non_Smartphone_COMBO20,158,272,10,0,4,4
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_3_88_Core-shifter_Non_Smartphone_COMBOALL10,575,1213,26,0,23,22
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_2_7_105_Core-shifter_W.Spend_<70P_EZ70,93,91,4,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_1_108_Both-shifter_Direct_EZ90,39,140,1,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_1_73_Both-shifter_Direct_AN20,8,24,0,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_1_98_Both-shifter_Direct_EZ50,625,1693,24,0,2,2
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_2_122_Both-shifter_Smartphone_COMBO20,381,900,19,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_2_86_Both-shifter_Smartphone_COMBO20,404,909,23,0,4,3
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_2_91_Both-shifter_Smartphone_COMBOALL10,1946,4668,103,0,26,24
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_3_120_Both-shifter_Non_Smartphone_COMBO20,35,71,1,0,0,0
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_3_84_Both-shifter_Non_Smartphone_COMBO20,55,97,3,0,2,2
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_3_89_Both-shifter_Non_Smartphone_COMBOALL10,226,590,15,0,6,6
+EMS2.0,22 09 2022,Retention_Enhanced_Multisim_TM_3_7_104_Both-shifter_W.Spend_<70P_EZ70,43,168,5,0,0,0
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C11_8d_post_exp_Avg_days<=7_66,64436,39013,3430,0,1125,1077
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C11_8d_post_exp_Avg_days>7&<=15_67,21016,12532,1109,0,325,0
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C12_15d_post_exp_Avg_days<=7_69,46745,11223,2416,0,469,453
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C12_15d_post_exp_Avg_days>15_71,6274,3593,321,0,32,32
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C12_15d_post_exp_Avg_days>7&<=15_70,15438,6541,814,0,108,105
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C13_22d_post_exp_Avg_days<=7_72,32601,7534,1737,0,193,182
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C13_22d_post_exp_Avg_days>15_74,4903,1471,262,0,26,0
+Grow Post-Expiry,22 09 2022,Grow_GP_UC5_C13_22d_post_exp_Avg_days>7&<=15_73,12154,3317,663,0,71,68
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C11_8d_post_exp_Avg_days<=7_49,105508,53986,5557,0,680,647
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C11_8d_post_exp_Avg_days>7&<=15_50,42059,23337,2197,0,1093,0
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C12_15d_post_exp_Avg_days<=7_52,64179,14201,3408,0,273,260
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C12_15d_post_exp_Avg_days>15_54,10318,5439,534,0,10,10
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C12_15d_post_exp_Avg_days>7&<=15_53,23617,10518,1259,0,64,60
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C13_22d_post_exp_Avg_days<=7_55,43421,10654,2315,0,122,113
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C13_22d_post_exp_Avg_days>15_57,8722,2349,438,0,95,0
+Grow Post-Expiry,22 09 2022,Grow_TM_UC5_C13_22d_post_exp_Avg_days>7&<=15_56,19988,5437,1049,0,39,38
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1M3_Hero_Promo_info_30,0,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Day_2_CRM_KW_Core_Sampler_2,9035,0,0,0,31,31
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Day_2_MS_Sim_Sampler_Reminder_1,22827,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Top_Up_Stimulation_MS_Reminder_7,3521,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Top_Up_Stimulation_Top_Up_Accum_120_FREE_350MB_for_all_sites_&_apps_5,2201,0,0,0,5,5
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Top_Up_Stimulation_Top_Up_Accum_140_FREE_350MB_for_all_sites_&_apps_6,4338,0,0,0,9,8
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Top_Up_Stimulation_Top_Up_Accum_50_FREE_150MB_for_all_sites_&_apps_3,18372,0,0,0,92,86
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M1_Top_Up_Stimulation_Top_Up_Accum_90_FREE_200MB_for_all_sites_&_apps_4,3708,0,0,0,56,52
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_A_Top_Up_Stimulation_MS_Reminder_13,10261,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_A_Top_Up_Stimulation_Top_Up_Accum_120_FREE_350MB_for_all_sites_&_apps_11,2163,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_A_Top_Up_Stimulation_Top_Up_Accum_140_FREE_350MB_for_all_sites_&_apps_12,3372,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_A_Top_Up_Stimulation_Top_Up_Accum_50_FREE_150MB_for_all_sites_&_apps_9,16950,0,0,0,37,34
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_A_Top_Up_Stimulation_Top_Up_Accum_90_FREE_200MB_for_all_sites_&_apps_10,3407,0,0,0,11,11
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_B_Top_Up_Stimulation_MS_Reminder_18,6626,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_B_Top_Up_Stimulation_Top_Up_Accum_120_FREE_350MB_for_all_sites_&_apps_16,1232,0,0,0,4,4
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_B_Top_Up_Stimulation_Top_Up_Accum_140_FREE_350MB_for_all_sites_&_apps_17,2058,0,0,0,13,13
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_B_Top_Up_Stimulation_Top_Up_Accum_50_FREE_150MB_for_all_sites_&_apps_14,18275,0,0,0,47,46
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_B_Top_Up_Stimulation_Top_Up_Accum_90_FREE_200MB_for_all_sites_&_apps_15,1935,0,0,0,12,11
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M2_Monthsary_Gift_Healthy_Delighter_300_100MB_8,8660,0,0,0,315,315
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_A_Top_Up_Stimulation_MS_Reminder_24,5317,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_A_Top_Up_Stimulation_Top_Up_Accum_120_FREE_350MB_for_all_sites_&_apps_22,1006,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_A_Top_Up_Stimulation_Top_Up_Accum_140_FREE_350MB_for_all_sites_&_apps_23,1666,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_A_Top_Up_Stimulation_Top_Up_Accum_50_FREE_150MB_for_all_sites_&_apps_20,16939,0,0,0,53,52
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_A_Top_Up_Stimulation_Top_Up_Accum_90_FREE_200MB_for_all_sites_&_apps_21,1606,0,0,0,6,6
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_B_Top_Up_Stimulation_MS_Reminder_29,5201,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_B_Top_Up_Stimulation_Top_Up_Accum_120_FREE_350MB_for_all_sites_&_apps_27,976,0,0,0,3,3
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_B_Top_Up_Stimulation_Top_Up_Accum_140_FREE_350MB_for_all_sites_&_apps_28,1731,0,0,0,10,10
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_B_Top_Up_Stimulation_Top_Up_Accum_50_FREE_150MB_for_all_sites_&_apps_25,18350,0,0,0,49,48
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_B_Top_Up_Stimulation_Top_Up_Accum_90_FREE_200MB_for_all_sites_&_apps_26,1527,0,0,0,12,12
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_M3_Monthsary_Gift_Healthy_Delighter_300_100MB_19,4819,0,0,0,171,171
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_NR_Sim_Sampler_Anti_Churn_MS_Sim_Sampler_Reminder_31,53498,0,2887,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_GP_R_Sim_Sampler_Anti_Churn_CRM_offer_32,29770,0,1543,0,0,54
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1M3_Hero_Promo_info_48,0,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Day_2_CRM_KW_Core_Sampler_2,8084,0,0,0,107,107
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Day_2_MS_Sim_Sampler_Reminder_1,16521,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MND_MS_Reminder_10,2913,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MND_Top_Up_Accum_30_100MB_FB_7,11182,0,0,0,46,45
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MND_Top_Up_Accum_50_200MB_FB_8,3002,0,0,0,30,30
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MND_Top_Up_Accum_70_300MB_FB_9,1894,0,0,0,17,16
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MS_Reminder_6,2400,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MS_Top_Up_Accum_100_300MB_FB_5,821,0,0,0,4,4
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MS_Top_Up_Accum_50_100MB_FB_3,8844,0,0,0,42,42
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M1_Top_Up_Stimulation_MS_Top_Up_Accum_70_200MB_FB_4,1207,0,0,0,9,9
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MND_MS_Reminder_24,7194,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MND_Top_Up_Accum_30_100MB_FB_21,10993,0,0,0,21,21
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MND_Top_Up_Accum_50_200MB_FB_22,3294,0,0,0,15,15
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MND_Top_Up_Accum_70_300MB_FB_23,2325,0,0,0,5,5
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MS_Reminder_16,3211,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MS_Top_Up_Accum_100_300MB_FB_15,1256,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MS_Top_Up_Accum_50_100MB_FB_13,9049,0,0,0,14,14
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_A_Top_Up_Stimulation_MS_Top_Up_Accum_70_200MB_FB_14,266,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MND_MS_Reminder_28,5089,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MND_Top_Up_Accum_30_100MB_FB_25,11330,0,0,0,43,43
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MND_Top_Up_Accum_50_200MB_FB_26,2071,0,0,0,30,30
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MND_Top_Up_Accum_70_300MB_FB_27,1431,0,0,0,9,9
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MS_Reminder_20,2420,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MS_Top_Up_Accum_100_300MB_FB_19,865,0,0,0,4,4
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MS_Top_Up_Accum_50_100MB_FB_17,8524,0,0,0,25,25
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_B_Top_Up_Stimulation_MS_Top_Up_Accum_70_200MB_FB_18,177,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_Digital_Reminder_MS_Digital_Reminder_12,56689,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_Monthsary_Gift_MND_Healthy_Delighter_145_100MB_FB_46,6179,0,0,0,102,102
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M2_Monthsary_Gift_MS_Healthy_Delighter_200_100MB_FB_11,2770,0,0,0,68,68
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MND_MS_Reminder_41,4482,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MND_Top_Up_Accum_30_100MB_FB_38,11766,0,0,0,20,19
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MND_Top_Up_Accum_50_200MB_FB_39,1719,0,0,0,13,13
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MND_Top_Up_Accum_70_300MB_FB_40,1232,0,0,0,7,7
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MS_Reminder_33,1896,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MS_Top_Up_Accum_100_300MB_FB_32,696,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MS_Top_Up_Accum_50_100MB_FB_30,8579,0,0,0,18,18
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_A_Top_Up_Stimulation_MS_Top_Up_Accum_70_200MB_FB_31,820,0,0,0,2,2
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MND_MS_Reminder_45,4416,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MND_Top_Up_Accum_30_100MB_FB_42,11572,0,0,0,32,31
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MND_Top_Up_Accum_50_200MB_FB_43,1543,0,0,0,19,19
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MND_Top_Up_Accum_70_300MB_FB_44,1123,0,0,0,9,9
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MS_Reminder_37,1941,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MS_Top_Up_Accum_100_300MB_FB_36,727,0,0,0,3,3
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MS_Top_Up_Accum_50_100MB_FB_34,9178,0,0,0,17,17
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_B_Top_Up_Stimulation_MS_Top_Up_Accum_70_200MB_FB_35,746,0,0,0,3,3
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_Monthsary_Gift_MND_Healthy_Deligher_145_100MB_FB_47,3873,0,0,0,172,172
+Welcome 3.0,22 09 2022,Welcome_2_0_TM_M3_Monthsary_Gift_MS_Healthy_Deligher_200_100MB_FB_29,1965,0,0,0,110,110
+Welcome 3.0,22 09 2022,Welcome_3_0_GP_M1_Top_Up_Stimulation_PJ_Top_Up_Accum_50_50MB_Unli_intra_calls_Unli_allnet_texts_33,11401,0,0,0,13,13
+Welcome 3.0,22 09 2022,Welcome_3_0_GP_M2_A_Top_Up_Stimulation_PJ_Top_Up_Accum_50_50MB_Unli_intra_calls_Unli_allnet_texts_34,612,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_3_0_GP_M2_B_Top_Up_Stimulation_PJ_Top_Up_Accum_50_50MB_Unli_intra_calls_Unli_allnet_texts_35,725,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_3_0_GP_M3_A_Top_Up_Stimulation_PJ_Top_Up_Accum_50_50MB_Unli_intra_calls_Unli_allnet_texts_36,10398,0,0,0,4,4
+Welcome 3.0,22 09 2022,Welcome_3_0_GP_M3_B_Top_Up_Stimulation_PJ_Top_Up_Accum_50_50MB_Unli_intra_calls_Unli_allnet_texts_37,14252,0,0,0,7,6
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M1_Top_Up_Stimulation_PJ_MND_Top_Up_Accum_30_Unli_intra_calls_Unli_allnet_texts_50,14947,0,0,0,12,12
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M1_Top_Up_Stimulation_PJ_Top_Up_Accum_50_Unli_intra_calls_Unli_allnet_texts_49,7818,0,0,0,6,6
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M2_A_Top_Up_Stimulation_PJ_MND_Top_Up_Accum_30_Unli_intra_calls_Unli_allnet_texts_53,1419,0,0,0,2,2
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M2_A_Top_Up_Stimulation_PJ_Top_Up_Accum_50_Unli_intra_calls_Unli_allnet_texts_51,1583,0,0,0,3,3
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M2_B_Top_Up_Stimulation_PJ_MND_Top_Up_Accum_30_Unli_intra_calls_Unli_allnet_texts_54,1833,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M2_B_Top_Up_Stimulation_PJ_Top_Up_Accum_50_Unli_intra_calls_Unli_allnet_texts_52,1468,0,0,0,0,0
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M3_A_Top_Up_Stimulation_PJ_MND_Top_Up_Accum_30_Unli_intra_calls_Unli_allnet_texts_57,10133,0,0,0,3,3
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M3_A_Top_Up_Stimulation_PJ_Top_Up_Accum_50_Unli_intra_calls_Unli_allnet_texts_55,5282,0,0,0,1,1
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M3_B_Top_Up_Stimulation_PJ_MND_Top_Up_Accum_30_Unli_intra_calls_Unli_allnet_texts_58,12469,0,0,0,8,8
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_M3_B_Top_Up_Stimulation_PJ_Top_Up_Accum_50_Unli_intra_calls_Unli_allnet_texts_56,7484,0,0,0,4,4
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_NR_Sim_Sampler_Anti_Churn_MS_Sim_Sampler_Reminder_59,27969,0,1511,0,0,0
+Welcome 3.0,22 09 2022,Welcome_3_0_TM_R_Sim_Sampler_Anti_Churn_CRM_offer_60,65567,0,3388,0,1074,0
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_1_1,728,5102,44,0,41,38
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_1_2,327,3399,13,0,16,14
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_1_3,2041,17416,84,0,35,34
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_2_4,206,1370,7,0,11,11
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_2_5,97,770,3,0,4,3
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_2_6,454,5534,23,0,7,7
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_3_7,152,1220,9,0,6,6
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_3_8,65,735,6,0,6,6
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G001_1_3_9,595,6328,17,0,10,10
+Grow Consistent Drop 3,22 09 2022,Grow_Consistent_HPW_G002_2_1_13,82,720,4,0,0,0
+CLV,22 09 2022,CLV_NPS_GP_CORE_DLSA_GO50_3,123,18,9,0,2,2
+CLV,22 09 2022,CLV_NPS_GP_CORE_DLSA_GO90_7,49,9,2,0,0,0
+CLV,22 09 2022,CLV_NPS_GP_CORE_DLSA_GOEXTRA90_11,21,2,1,0,0,0
+CLV,22 09 2022,CLV_NPS_GP_CORE_DLSA_GOUNLI20_15,81,16,3,0,0,0
+CLV,22 09 2022,CLV_NPS_GP_DATA_DLSA_GO50_1,2374,2001,126,9162,20,20
+CLV,22 09 2022,CLV_NPS_GP_DATA_DLSA_GO90_5,2361,1552,139,3332,12,12
+CLV,22 09 2022,CLV_NPS_GP_DATA_DLSA_GOEXTRA90_9,2379,788,121,188,22,22
+CLV,22 09 2022,CLV_NPS_GP_DATA_DLSA_GOUNLI20_13,2385,959,115,670,7,7
+CLV,22 09 2022,CLV_NPS_TM_CORE_DLSA_ALLNET20_7,570,116,32,0,0,0
+CLV,22 09 2022,CLV_NPS_TM_CORE_DLSA_COMBOALL10_3,1485,389,89,0,0,0
+CLV,22 09 2022,CLV_NPS_TM_CORE_DLSA_COMBOALL20_11,1376,188,73,0,0,0
+CLV,22 09 2022,CLV_NPS_TM_CORE_DLSA_EZ50_15,100,21,6,0,0,0
+CLV,22 09 2022,CLV_NPS_TM_DATA_DLSA_ALLNET20_5,2370,4353,130,19085,2,2
+CLV,22 09 2022,CLV_NPS_TM_DATA_DLSA_COMBOALL10_1,2379,1012,121,787,1,1
+CLV,22 09 2022,CLV_NPS_TM_DATA_DLSA_COMBOALL20_9,1716,304,95,0,0,0
+CLV,22 09 2022,CLV_NPS_TM_DATA_DLSA_EZ50_13,2376,1245,124,5819,10,10
+Flash Deals,22 09 2022,HYBFD_HPW_L1_HS199_X50_2A,0,30072,0,8575,0,0
+Flash Deals,22 09 2022,HYBFD_HPW_L1_HS199_X70_1A,9933,175966,423,0,1,1
+Flash Deals,22 09 2022,HYBFD_HPW_L2_HS199_X50_3A,3,0,0,0,0,0
+True AC Challenger,22 09 2022,RETENTION_TRUEACCHAL_GP_1_1_1_TRUACCHAL_Data_Sing7_Data_10_150MB,44048,12693,2303,0,143,119
+True AC Challenger,22 09 2022,RETENTION_TRUEACCHAL_GP_1_2_2_TRUACCHAL_Core_Sing7_Core_10_180min,55249,1116,2951,0,3,3
+True AC Challenger,22 09 2022,RETENTION_TRUEACCHAL_TM_1_1_1_TRUACCHAL_DATA_SING7_DATA_10_100MB,36605,9494,1892,0,76,67
+True AC Challenger,22 09 2022,RETENTION_TRUEACCHAL_TM_1_2_2_TRUACCHAL_CORE_SING7_CORE_10_20min-100intra,51929,896,2685,0,4,3
+5G Unli Tack On,22 09 2022,5GUnli_GHP-PREPAID_1_1_1_ActivePromo_GO5G99,1893,865,119,0,0,0
+5G Unli Tack On,22 09 2022,5GUnli_GHP-PREPAID_1_2_2_ActivePromo_GO5G199,1834,936,89,0,1,0
+5G Unli Tack On,22 09 2022,5GUnli_GHP-PREPAID_2_1_3_PromoReg_GO5G99,39,26,1,0,0,0
+5G Unli Tack On,22 09 2022,5GUnli_GHP-PREPAID_2_2_4_PromoReg_GO5G199,30,22,2,0,0,0
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_1_1_1,1122,6253,61,0,0,0
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_1_2_2,317,1728,18,0,0,0
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_1_3_3,231,1328,17,0,1,1
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_2_1_1,196,1149,6,0,0,0
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_2_2_2,194,1055,12,0,0,0
+HPW Interim Onboarding,22 09 2022,Interim_Onboarding_C00093_3_1_1,36,14,7,0,1,1
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_1_1_2,96,70,3,0,6,0
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_2_1_1,9484,63896,516,187409,11,0
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_2_2_1,5698,5478,300,0,28,0
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_2_2_2,3201,2981,190,0,6,0
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_3_1_1,216150,185968,11207,0,560,0
+TM Drive to Hero,22 09 2022,TM_Drive_to_Hero_SKUs_TM_3_2_2,9468,83366,532,290092,17,0
+Loans Payment Reminder,22 09 2022,LoansRTP_GHP-PREPAID_1_1_1,186387,367627,9782,0,690,0
+Loans Payment Reminder,22 09 2022,LoansRTP_TM_1_2_2,284359,828857,15181,0,1665,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_1_1_1,9515,53944,509,221623,50,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_1_2_2,9538,51913,462,211860,13,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_1_3_3,9470,21808,530,97144,4,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_2_1_4,9487,11765,513,56050,185,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_2_2_5,9496,51840,504,435685,46,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_2_3_6,9551,31336,509,296620,7,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_3_1_7,9501,21280,499,285546,45,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_3_2_8,9485,6179,515,74969,11,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_3_3_9,4080,554,208,0,14,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_4_1_10,9493,41768,507,855710,77,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_4_2_11,9564,18945,521,356367,24,0
+Drive to MDS,22 09 2022,DriveToMDS_GHP-PREPAID_4_3_12,9500,1805,501,14703,79,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Garena_20_49.99,125,0,2,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Garena_50_99999,74,1,2,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Globe_10_99999,44851,138,2276,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Globe_2_9.99,38247,126,1981,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Grab_100_99999,783,7,48,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Jollibee_12_99999,80,0,3,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Lazada_100_299.99,2153,16,101,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_McDonald's_31_65.99,92,0,7,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_McDonald's_68_74.99,8,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_McDonald's_75_99999,28,0,3,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Pickaroo_100_99999,1,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Razer_20_49.99,278,1,20,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Razer_50_99999,208,0,10,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_SM_105_99999,4,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Shopee_105_99999,5707,65,308,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Shopee_55_104.99,50180,503,2684,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_Viu_15_99999,215,1,13,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_GP_4_SMS_WeTV_28_99999,9,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Garena_20_49.99,23,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Garena_50_99999,15,0,1,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Globe_10_99999,44648,78,2413,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Globe_2_9.99,90666,167,4856,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Grab_100_99999,40,2,3,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Jollibee_12_99999,20,0,2,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Lazada_100_299.99,393,3,24,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_McDonald's_31_65.99,15,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_McDonald's_68_74.99,1,0,1,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_McDonald's_75_99999,3,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Razer_20_49.99,153,1,15,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Razer_50_99999,52,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_SM_105_99999,3,0,0,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Shopee_105_99999,982,9,43,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Shopee_55_104.99,8488,61,432,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_Viu_15_99999,87,0,4,0,0,0
+Rewards Website Detection,22 09 2022,WebsiteDetection_TM_4_SMS_WeTV_28_99999,2,0,0,0,0,0
+Beyond 120,22 09 2022,RT>120_RT_GP_W002_1_1_1,9551,0,464,188355,31,17
+Beyond 120,9/22/2022,RT>120_RT_TM_W002_1_2_2,9525,0,475,180843,39,7
+Fin Con,9/22/2022,FC_RT_GP_W001_1_1_1,9488,0,512,59745,12,4
+Fin Con,9/22/2022,FC_RT_TM_W001_1_2_2,9482,0,518,70881,36,4
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_1_1_1,1866,2992,93,0,7,7
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_1_1_2,1821,2994,99,0,0,0
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_1_2_1,3293,3886,163,0,11,9
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_1_3_1,2007,2000,105,0,11,10
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_2_2_1,4892,8541,229,0,34,30
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_3_1_1,945,1617,47,0,8,7
+Core Upsell,9/22/2022,TM_Grow_Core Upsell_4_1_1,1002,1529,61,0,6,6

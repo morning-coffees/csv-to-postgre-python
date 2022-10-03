@@ -1,2 +1,90 @@
-Jhon,Wick,15
-Jhon,Pick,19
+Act Dec,9/22/2022 6:38:37,371,Camp_ActDec_GP_Core_STATELESS,Aud_ActDec_GP_Core,"49,026"
+Act Dec,9/22/2022 6:20:58,358,Camp_ActDec_GP_Data_STATELESS,Aud_ActDec_GP_Data,"360,548"
+Act Dec,9/22/2022 7:00:38,373,Camp_ActDec_TM_Core_STATELESS,Aud_ActDec_TM_Core,"104,144"
+Act Dec,9/22/2022 6:45:26,372,Camp_ActDec_TM_Data_STATELESS,Aud_ActDec_TM_Data,"367,627"
+HPW Interim Onboarding,9/22/2022 6:45:03,416,Camp_HPW_Interim_Onboarding_No_Spend,Aud_HPW_Interim_Onboarding_No_Spend,"2,612"
+HPW Interim Onboarding,9/22/2022 7:00:08,476,Camp_HPW_Interim_Onboarding_RegNG1_WL,Aud_HPW_Interim_Onboarding_Reg_NG1_WL,"104,326"
+HPW Interim Onboarding,9/22/2022 7:00:03,471,Camp_Interim_Onboarding_C00093_1_1_M1,Aud_Interim_Onboarding_C00093_1_M1,"7,436"
+HPW Interim Onboarding,9/22/2022 7:00:03,472,Camp_Interim_Onboarding_C00093_1_2_M2,Aud_Interim_Onboarding_C00093_1_M2,"2,063"
+HPW Interim Onboarding,9/22/2022 7:00:03,473,Camp_Interim_Onboarding_C00093_1_3_M3,Aud_Interim_Onboarding_C00093_1_M3,"1,576"
+Drive to MDS,9/22/2022 7:51:37,536,Camp_Drive_To_MDS_GP,Aud_Drive_To_MDS_GP,"3,466,837"
+TM Drive to Hero,9/22/2022 7:51:36,407,Camp_WL_TM_Drive_to_Hero_SKUs_TM_2_1_1,Aud_TM_Drive_to_Hero_SKUs_TM_2_1_1,"1,645,579"
+TM Drive to Hero,9/22/2022 7:51:36,412,Camp_WL_TM_Drive_to_Hero_SKUs_TM_2_2_1,Aud_TM_Drive_to_Hero_SKUs_TM_2_2_1,"83,841"
+TM Drive to Hero,9/22/2022 7:51:36,413,Camp_WL_TM_Drive_to_Hero_SKUs_TM_2_2_2,Aud_TM_Drive_to_Hero_SKUs_TM_2_2_2,"62,429"
+TM Drive to Hero,9/22/2022 7:51:36,411,Camp_WL_TM_Drive_to_Hero_SKUs_TM_3_1_1,Aud_TM_Drive_to_Hero_SKUs_TM_3_1_1,"989,854"
+TM Drive to Hero,9/22/2022 7:51:36,415,Camp_WL_TM_Drive_to_Hero_SKUs_TM_3_2_2,Aud_TM_Drive_to_Hero_SKUs_TM_3_2_2,"705,949"
+Grow Post-Expiry,9/22/2022 8:33:35,227,Camp_Grow_Post_Expiry_Batch_10D,Aud_Grow_post_expiry_10_days,"488,446"
+Grow Post-Expiry,9/22/2022 8:33:35,238,Camp_Grow_Post_Expiry_Batch_18D,Aud_Grow_post_expiry_18_days,"245,578"
+Grow Post-Expiry,9/22/2022 8:33:34,239,Camp_Grow_Post_Expiry_Batch_26D,Aud_Grow_post_expiry_26_days,"167,780"
+Welcome 3.0,9/22/2022 9:59:39,424,Camp_Welcome3_Antichurn,Aud_Welcome3_Antichurn,"31,313"
+Welcome 3.0,9/22/2022 10:01:08,437,Camp_Welcome3_Antichurn_DirectCampaign,Aud_Welcome3_Antichurn_DirectCampaign,"85,865"
+Welcome 3.0,9/22/2022 10:01:10,433,Camp_Welcome3_Antichurn_No_Fulfillment,Aud_Welcome3_Antichurn_No_Fulfillment,"68,955"
+Welcome 3.0,9/22/2022 10:01:13,423,Camp_Welcome3_DirectCampaign_GP_TM_MS,Aud_Welcome3_DirectCampaign_GP_TM_MS,"138,831"
+Welcome 3.0,9/22/2022 10:01:11,431,Camp_Welcome3_DirectCampaign_TM_MND,Aud_Welcome3_DirectCampaign_TM_MND,"24,094"
+Welcome 3.0,9/22/2022 8:35:09,432,Camp_Welcome3_Hero_WL_Integ,Aud_Welcome3_Hero_WL,20
+Welcome 3.0,9/22/2022 10:01:13,422,Camp_Welcome3_InviteProvision,Aud_Welcome3_InviteProvision,"17,119"
+Welcome 3.0,9/22/2022 10:01:13,426,Camp_Welcome3_MonthsaryFreebie_GP_TM_MS,Aud_Welcome3_MonthsaryFreebie_GP_TM_MS,"18,214"
+Welcome 3.0,9/22/2022 10:01:11,430,Camp_Welcome3_MonthsaryFreebie_TM_MND,Aud_Welcome3_MonthsaryFreebie_TM_MND,"10,052"
+Welcome 3.0,9/22/2022 8:54:06,427,Camp_Welcome3_TU_Stretch_M1_GP_TM_MS,Aud_Welcome3_TU_Stretch_M1_GP_TM_MS,"58,710"
+Welcome 3.0,9/22/2022 8:54:03,453,Camp_Welcome3_TU_Stretch_M1_TM_MND,Aud_Welcome3_TU_Stretch_M1_TM_MND,"31,225"
+Welcome 3.0,9/22/2022 8:54:06,428,Camp_Welcome3_TU_Stretch_M2_GP_TM_MS,Aud_Welcome3_TU_Stretch_M2_GP_TM_MS,"79,548"
+Welcome 3.0,9/22/2022 8:54:03,435,Camp_Welcome3_TU_Stretch_M2_TM_MND,Aud_Welcome3_TU_Stretch_M2_TM_MND,"34,821"
+Welcome 3.0,9/22/2022 8:54:06,451,Camp_Welcome3_TU_Stretch_M3_GP_TM_MS,Aud_Welcome3_TU_Stretch_M3_GP_TM_MS,"101,963"
+Welcome 3.0,9/22/2022 8:54:03,452,Camp_Welcome3_TU_Stretch_M3_TM_MND,Aud_Welcome3_TU_Stretch_M3_TM_MND,"52,710"
+Flash Deals,9/22/2022 9:00:15,463,Camp_FlashDeals_HPW,Aud_HPW_FlashDeals,"223,301"
+HPW Infrequent,9/22/2022 9:00:08,421,FLOW_HPW_MODEL_BASED_INFREQUENT_WL,Aud_HPW Model-based Infrequent,"66,708"
+True AC,9/22/2022 11:47:22,393,Camp_True_AC_GP_NonSmartphone,True_Ac_GP_NonSmartphone,"74,794"
+True AC,9/22/2022 11:47:22,369,Camp_True_AC_GP_Smartphone,True_Ac_GP_Smartphone,"194,516"
+True AC,9/22/2022 11:48:22,386,Camp_True_Ac_TM_Nonsmartphone,True_Ac_TM_NonSmartphone,"138,564"
+True AC,9/22/2022 11:48:22,384,Camp_True_Ac_TM_Smartphone,True_Ac_TM_Smartphone,"205,029"
+Grow Consistent Drop 3,9/22/2022 10:30:18,449,Camp_Grow_Consistent_HPW_G001_1_1_1,Aud_HPW_G001_1_NoTxn4to7_MP50,"6,258"
+Grow Consistent Drop 3,9/22/2022 10:30:18,440,Camp_Grow_Consistent_HPW_G001_1_1_2,Aud_HPW_G001_1_NoTxn4to7_MP99,"4,021"
+Grow Consistent Drop 3,9/22/2022 10:30:18,441,Camp_Grow_Consistent_HPW_G001_1_1_3,Aud_HPW_G001_1_NoTxn4to7_MP199,"20,926"
+Grow Consistent Drop 3,9/22/2022 10:30:18,442,Camp_Grow_Consistent_HPW_G001_1_2_4,Aud_HPW_G001_1_NoTxn8to10_MP50,"1,683"
+Grow Consistent Drop 3,9/22/2022 10:30:18,443,Camp_Grow_Consistent_HPW_G001_1_2_5,Aud_HPW_G001_1_NoTxn8to10_MP99,924
+Grow Consistent Drop 3,9/22/2022 10:30:18,444,Camp_Grow_Consistent_HPW_G001_1_2_6,Aud_HPW_G001_1_NoTxn8to10_MP199,"6,484"
+Grow Consistent Drop 3,9/22/2022 10:30:18,445,Camp_Grow_Consistent_HPW_G001_1_3_7,Aud_HPW_G001_1_NoTxn11to30_MP50,"1,482"
+Grow Consistent Drop 3,9/22/2022 10:30:18,446,Camp_Grow_Consistent_HPW_G001_1_3_8,Aud_HPW_G001_1_NoTxn11to30_MP99,863
+Grow Consistent Drop 3,9/22/2022 10:30:18,447,Camp_Grow_Consistent_HPW_G001_1_3_9,Aud_HPW_G001_1_NoTxn11to30_MP199,"7,452"
+Grow Consistent Drop 3,9/22/2022 10:30:18,448,Camp_Grow_Consistent_HPW_G002_2_1_13,Aud_HPW_G002_2_NoTxn1to30_MP50,870
+Proactive Topup,9/22/2022 11:48:24,398,Proactive Top Up Casual,Proactive Top Up Cas,"266,114"
+Proactive Topup,9/22/2022 11:48:24,397,Proactive Top Up Frequent,Proactive Top Up Freq,"463,650"
+Proactive Topup,9/22/2022 11:48:24,396,Proactive Top Up Regular,Proactive Top Up Regular,"489,175"
+EMS2.0,2022-09-22 15:03:32,467,Camp_EMS3_Both_Shifters_GP,Aud_EMS2_Both_Shifters_GP,"57,275"
+EMS2.0,2022-09-22 15:02:42,470,Camp_EMS3_Both_Shifters_TM,Aud_EMS2_Both_Shifters_TM,"118,949"
+EMS2.0,2022-09-22 15:03:32,465,Camp_EMS3_Core_Shifters_GP,Aud_EMS2_Core_Shifter_GP,"170,850"
+EMS2.0,2022-09-22 15:02:42,468,Camp_EMS3_Core_Shifters_TM,Aud_EMS2_Core_Shifter_TM,"248,435"
+EMS2.0,2022-09-22 15:22:26,466,Camp_EMS3_Data_Shifters_GP,Aud_EMS2_Data_Shifters_GP,"631,101"
+EMS2.0,2022-09-22 15:07:58,469,Camp_EMS3_Data_Shifters_TM,Aud_EMS2_Data_Shifters_TM,"574,817"
+True AC Challenger,2022-09-22 17:06:08,422,CAMP_RETENTION_TRUEACCHAL_GP_1_1_1,AUD_RETENTION_TRUEACCHAL_GP_1_1_1_DATA,"374,117"
+True AC Challenger,2022-09-22 14:22:18,423,CAMP_RETENTION_TRUEACCHAL_GP_1_2_2,AUD_RETENTION_TRUEACCHAL_GP_1_2_2_CORE,"500,000"
+True AC Challenger,2022-09-22 19:34:34,424,CAMP_RETENTION_TRUEACCHAL_TM_1_1_1,AUD_RETENTION_TRUEACCHAL_TM_1_1_1_DATA,"329,015"
+True AC Challenger,2022-09-22 14:39:33,425,CAMP_RETENTION_TRUEACCHAL_TM_1_2_2,AUD_RETENTION_TRUEACCHAL_TM_1_2_2_CORE,"500,000"
+CLV,2022-09-22 20:25:43,617,Camp_CLV_NPS_GP_CORE_WL_v3,CLV_NPS_GP_CORE_v2,"61,507"
+CLV,2022-09-22 20:25:43,618,Camp_CLV_NPS_GP_DATA_WL_v3,CLV_NPS_GP_DATA_v2,"873,179"
+CLV,2022-09-22 19:53:59,616,Camp_CLV_NPS_TM_CORE_WL_v3,CLV_NPS_TM_CORE_v2,"98,796"
+CLV,2022-09-22 19:53:59,619,Camp_CLV_NPS_TM_DATA_WL_v3,CLV_NPS_TM_DATA_v2,"860,935"
+Reg & Get - RT002,2022-09-22 15:00:31,285,Camp_HPW_RT002_2_1_SSARPUgt300_Anum,Aud_HPW_RT002_ARPU>300_ANUM,"2,192"
+Reg & Get - RT002,2022-09-22 15:00:31,259,Camp_HPW_RT002_2_1_SSARPUgt300_Bnum,Aud_HPW_RT002_ARPU>300_BNUM,"60,203"
+Reg & Get - RT002,2022-09-22 15:00:31,264,Camp_HPW_RT002_2_2_SSARPU100to300_P2_Anum,Aud_HPW_RT002_ARPU101to300_ANUM,"3,001"
+Reg & Get - RT002,2022-09-22 15:00:31,265,Camp_HPW_RT002_2_2_SSARPU100to300_P2_Bnum,Aud_HPW_RT002_ARPU101to300_BNUM,"68,271"
+Reg & Get - RT002,2022-09-22 15:00:31,394,Camp_HPW_RT002_2_2_SSARPUlte100_P2_Anum,Aud_HPW_RT002_ARPU<=100_ANUM,"6,168"
+Reg & Get - RT002,2022-09-22 15:00:35,268,Camp_HPW_RT002_2_2_SSARPUlte100_P2_Bnum,Aud_HPW_RT002_ARPU<=100_BNUM,"215,149"
+Reg & Get - RT003,2022-09-22 16:00:04,270,Camp_HPW_RT003_1_1_SSRegGet_Anum,Aud_HPW_RT003_RegGet_ANUM,"1,172"
+Reg & Get - RT003,2022-09-22 16:00:40,395,Camp_HPW_RT003_1_1_SSRegGet_Bnum,Aud_HPW_RT003_RegGet_BNUM,"653,801"
+Fin Con,2022-09-22 20:25:43,603,Camp_FinCon_GP_WL,Aud_FinCon_GP_Batch,"781,449"
+Fin Con,2022-09-22 19:54:00,605,Camp_FinCon_TM_WL,Aud_FinCon_TM_Batch,"1,235,870"
+Beyond 120,2022-09-22 22:23:40,598,Camp_Beyond120Days_GP_WL,Aud_Beyond120Days_GP_Batch,"2,708,193"
+Beyond 120,2022-09-22 22:01:08,600,Camp_Beyond120Days_TM_WL,Aud_Beyond120Days_TM_Batch,"3,353,643"
+Rewards Website Detection,2022-09-22 20:44:01,459,Camp_Rewards_Website_Detection,Aud_Rewards_Website_Detection_WL,22238310
+5G Unli Tack On,2022-09-22 16:36:12,476,Camp_5g_unli_responder,Aud_5G_Unli_Tack_On,"50,244"
+Core upsell,2022-09-22 22:10:42,528,Camp_Core Upsell_GU30_Frequent,Aud_Core Upsell_GU30_Frequent,12577
+Core upsell,2022-09-22 22:10:42,526,Camp_Core Upsell_GU30_Regular,Aud_Core Upsell_GU30_Regular,820
+Core upsell,2022-09-22 23:43:06,535,Camp_Core Upsell_GU50_Frequent,Aud_Core Upsell_GU50_Frequent,7717
+Core upsell,2022-09-22 22:10:42,520,Camp_Core Upsell_GU50_Regular,Aud_Core Upsell_GU50_Regular,411
+Core upsell,2022-09-22 22:23:40,529,Camp_Core_Upsell_NonProbing_GP,Aud_Core_Upsell_GP,188337
+Core upsell,2022-09-22 22:01:08,519,Camp_Core_Upsell_NonProbing_TM,Aud_Core_Upsell_TM,494849
+Core upsell,2022-09-22 22:01:08,533,Camp_Core_Upsell_Probing_Combo10_TM,Aud_Core_Upsell_Probing_Combo10_TM,15839
+Core upsell,2022-09-22 23:34:56,531,Camp_Core_Upsell_Probing_ComboAll10_TM,Aud_Core_Upsell_Probing_ComboAll10_TM,80798
+Core upsell,2022-09-22 22:23:40,534,Camp_Core_Upsell_Probing_Frequent_GP,Aud_Core_Upsell_Probing_Frequent_GP,23952
+Core upsell,2022-09-22 22:10:42,524,Camp_Core_Upsell_Probing_Regular_GP,Aud_Core_Upsell_Probing_Regular_GP_Batch,2794
